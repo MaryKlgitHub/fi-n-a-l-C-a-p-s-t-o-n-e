@@ -30,6 +30,20 @@ This project is a task management system implemented in Python. It allows users 
   - `gr`: Generate reports
   - `ds`: Display statistics (only accessible for the admin user)
   - `e`: Exit
+    
+### Some screenshots of the program below:
+
+User overview report
+
+<img width="750" alt="Screenshot 2023-06-23 at 14 51 52" src="https://github.com/MaryKlgitHub/fi-n-a-l-C-a-p-s-t-o-n-e/assets/126916883/c96a1584-1137-44da-a365-e07cb32bccdd">
+
+menu 'vm'
+
+<img width="750" alt="Mytask" src="https://github.com/MaryKlgitHub/fi-n-a-l-C-a-p-s-t-o-n-e/assets/126916883/2305acee-02b9-4b63-9d28-90100be65a6f">
+
+Additional functionality in 'vm'
+
+<img width="750" alt="Screenshot 2023-06-23 at 14 50 52" src="https://github.com/MaryKlgitHub/fi-n-a-l-C-a-p-s-t-o-n-e/assets/126916883/a5f72189-dddd-415c-944c-2b3d0560484a">
 
 - Follow the on-screen instructions to perform the desired actions.
 
